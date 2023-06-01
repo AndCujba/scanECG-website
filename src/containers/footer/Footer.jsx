@@ -4,7 +4,7 @@ import './footer.css';
 const Footer = () => (
   <div className="ecg__footer section__padding">
     <div className="ecg__footer-heading">
-      <h1 className="gradient__text">It'sa new beggining, so let's make history</h1>
+      <h1 className="gradient__text">It's a new beggining, so let's make history</h1>
     </div>
 
     <div className="ecg__footer-btn">
