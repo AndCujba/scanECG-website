@@ -1,7 +1,7 @@
 
 import './App.css';
 import { Navbar } from './components';
-import { Footer, Header, Features } from './containers';
+import { Footer, Header, Features, Prices } from './containers';
 
  
 function App() {
@@ -12,6 +12,7 @@ function App() {
       <Header />
     </div>
     <Features />
+    <Prices />
     <Footer /> 
   </div>
   );

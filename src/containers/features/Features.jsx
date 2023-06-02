@@ -5,20 +5,20 @@ import { Feature } from '../../components';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'psum quia dolor sit amet',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In facilisis sem pretium nunc fermentum ultrices. Praesent blandit nisi et iaculis viverra.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Neque porro quisquam est qui dolorem ',
+    text: 'Nunc a turpis vel quam rutrum dignissim a id ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin dictum odio et elit tempus elementum. ',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'consectetur, adipisci velit...',
+    text: 'Aliquam erat volutpat. Donec eget massa et orci rutrum scelerisque. Mauris efficitur blandit tellus eu pharetra. Etiam at felis sed ipsum posuere sollicitudin nec quis nulla.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Aliquam erat volutpat',
+    text: 'Pellentesque hendrerit quam eros, in porta erat consequat varius. Nam dapibus odio et posuere consequat.',
   },
 ];
 
@@ -27,8 +27,8 @@ const Features = () => {
   return (
     <div className="ecg__features section__padding" id="features">
     <div className="ecg__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today & Make it Happen.</h1>
+      <p>Get Started Now With Docs</p>
     </div>
     <div className="ecg__features-container">
       {featuresData.map((item, index) => (
